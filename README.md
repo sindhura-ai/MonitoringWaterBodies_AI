@@ -62,4 +62,4 @@ No spatial context                        Understands neighborhoods
 
 ## License
 
-MIT
+Smart Bhujal Pvt. Ltd
